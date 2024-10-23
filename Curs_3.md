@@ -114,11 +114,11 @@ Inscriere -------------- |
 
 EX: 
 
-Calculator format din placa de baza, ram, etc (**Agregare compusa**)
+Calculator format din placa de baza, ram, etc (**Agregare partajata**) - se marcheaza cu un romb gol in interior
 
 - Dezmembrez unitatea de calculator, dar componentele exista
 
-Cladirea formata din sali (**Agregare compusa**)
+Cladirea formata din sali (**Agregare compusa**) - se marcheaza cu romb umplut cu negru
 
 - Daca dispare cladirea, salile dispar
 
