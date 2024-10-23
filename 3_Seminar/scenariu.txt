@@ -1,0 +1,23 @@
+Scopul proiectului este realizarea unui sistem informatic pentru gestiunea activităților de rezervare și
+cazare ale unei unități hoteliere. În vederea cazării, un client poate solicita rezervarea uneia sau mai multor
+camere prin e-mail, telefonic sau folosind site-uri specializate în rezervări hoteliere. Pentru rezervările prin
+email sau telefonic, clientul furnizează recepționerului informații privind perioada de cazare și tipurile de
+camere solicitate. Clienții vor beneficia de reduceri implicite dacă rezervă cel putin un număr minim de camere
+sau dacă perioada de cazare depășește patru zile. Recepționerul verifică disponibilitatea camerelor și îl
+înștiințează pe client de acest lucru precum și de costul estimat al cazării. Dacă nu există camere disponibile
+conform solicitării, recepționerul poate oferi clientului alternative. De asemenea, clientul poate solicita un
+discount suplimentar, iar recepționerul va decide fezabilitatea discountului, fiind asistat obligatoriu de
+managerul hotelului. În situația în care clientul este de acord cu prețul propus, se va proceda la realizarea
+rezervării. Pentru clienții noi, recepționerul solicită datele de identificare, pe care le introduce în aplicație.
+Nu se poate acorda discount suplimentar pentru rezervările făcute prin intermediul site-urilor specializate.
+
+Odată ajuns la hotel, și dacă a făcut în prealabil o rezervare, clientul va furniza datele de identificare ale sale
+și/sau ale rezervării și se face cazarea. Dacă nu există o rezervare, se va verifica disponibilitatea camerelor
+pentru perioada cerută. Atunci când se găsește o astfel de cameră, se face cazarea. La finalul sejurului,
+recepționerul întocmește o listă cu toate serviciile solicitate de client, precum și prețul acestora. Lista
+trebuie validată de client, după care se întocmește factura finală. Factura poate fi plătită parțial sau
+integral, prin transfer bancar, numerar sau folosind un card bancar. Totodată, înainte de a părăsi hotelul,
+clientul este rugat să completeze un formular prin care să evalueze serviciile oferite de unitatea hotelieră.
+După eliberarea camerei, camerista verifică starea acesteia și informează recepția.
+
+> Să se reprezinte în Visual Paradigm diagrama de cazuri de utilizare pentru scenariul de mai sus.
